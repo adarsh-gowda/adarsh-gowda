@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Phishing Domain Detection**
+- 🔭 I’m currently working on **RAG Agent using adk**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Agentic AI**
 
-- 💬 Ask me about **Machine learning,Python,Deep learning**
+- 💬 Ask me about **Machine learning,Python,Deep learning,Generative AI,Agentic AI**
 
 - 📫 How to reach me **adarshgowda2711@gmail.com**
 
