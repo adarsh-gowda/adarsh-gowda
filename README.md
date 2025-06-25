@@ -28,4 +28,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarsh-gowda&show_icons=true&locale=en" alt="adarsh-gowda" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh-gowda&" alt="adarsh-gowda" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh-gowda&theme=tokyonight" alt="adarsh-gowda" /></p>
+
